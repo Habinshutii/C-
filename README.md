@@ -1,4 +1,4 @@
-# C-
+# C++ (CIS 161)
 CIS 161 //C++
 //CIS 161 is a C++ class that I am currently taking with Mr Struss, Joseph.
 In this Class I learned so much in C++ and did a lot project each week and quizess to make sure I understanf C++
